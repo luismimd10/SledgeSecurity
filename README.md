@@ -26,8 +26,8 @@ Inicio de proyecto hasta 03/06/2024
 * Prometheus: http://44.223.163.86:9090/
 
 ### Bibliografía
-[Instalar Jenkins en Linux](https://www.jenkins.io/doc/book/installing/linux/)
-[SonarQube con Docker Compose](https://medium.com/@denis.verkhovsky/sonarqube-with-docker-compose-complete-tutorial-2aaa8d0771d4)
-[Instalar Prometheus en Linux](https://prometheus.io/docs/prometheus/latest/getting_started/)
-[Instalar Grafana en Linux](https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/)
-[Instalar SonarQube con Docker](https://docs.sonarsource.com/sonarqube/latest/setup-and-upgrade/install-the-server/installing-sonarqube-from-docker/)
+- [Instalar Jenkins en Linux](https://www.jenkins.io/doc/book/installing/linux/)
+- [SonarQube con Docker Compose](https://medium.com/@denis.verkhovsky/sonarqube-with-docker-compose-complete-tutorial-2aaa8d0771d4)
+- [Instalar Prometheus en Linux](https://prometheus.io/docs/prometheus/latest/getting_started/)
+- [Instalar Grafana en Linux](https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/)
+- [Instalar SonarQube con Docker](https://docs.sonarsource.com/sonarqube/latest/setup-and-upgrade/install-the-server/installing-sonarqube-from-docker/)
