@@ -1,6 +1,9 @@
 # SledgeSecurity
 
-Proyecto fin de grado de Luis Miguel Miras Díaz y Rafael Jiménez Burgos.
+
+<p align="center"><img src="logosledgesecurity.jpg" alt="drawing" style="width:500px;"/></p>
+
+<p align="center">Proyecto fin de grado de Luis Miguel Miras Díaz y Rafael Jiménez Burgos.</p>
 
 # Checkpoint
 [Video CheckPoint](https://youtu.be/CTjzCZpz3cc)
