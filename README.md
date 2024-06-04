@@ -3,7 +3,7 @@
 Proyecto fin de grado de Luis Miguel Miras Díaz y Rafael Jiménez Burgos.
 
 # Checkpoint
-[Video CheckPoint]()
+[Video CheckPoint](https://youtu.be/CTjzCZpz3cc)
 
 ### Software Utilizado y versiones:
 - Jenkins 2.452.1
