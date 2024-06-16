@@ -5,6 +5,9 @@
 
 <p align="center">Proyecto fin de grado de Luis Miguel Miras Díaz y Rafael Jiménez Burgos.</p>
 
+# Objetivo del proyecto
+<p align="center">Hemos decidido replciar la interfaz web de Netflix mediante un proyecto CI/CD y aplicando a su vez la metodología DevOps, con el fin de asemejarse todo lo posible a la realidad del mundo laboral pero aportándole una capa extra de seguridad, parar ello hemos empleado el servicio en la nube de AWS para albergar nuestras máquinas, contendores en Docker para almacenar nuestra aplicación, herramientas de monitorización como Grafana, herramientas de seguridad como son OWASP o Trivy y otras tecnologías que no se mencionan en esta descripción pero ayudarán también a cumplir nuestro objetivo.</p>
+
 # Esquema del proyecto
 
 
