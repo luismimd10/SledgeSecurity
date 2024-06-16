@@ -6,8 +6,7 @@
 <p align="center">Proyecto fin de grado de Luis Miguel Miras Díaz y Rafael Jiménez Burgos.</p>
 
 #Esquema del proyecto
-<p align="center"><img src="![proyecto ligth drawio](https://github.com/luismimd10/SledgeSecurity/assets/115225094/7774df32-df37-420c-a085-3bf70a4eef9c)
-" alt="drawing" style="width:500px;"/></p>
+
 
 # Checkpoint
 [Video CheckPoint](https://youtu.be/CTjzCZpz3cc)
