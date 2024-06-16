@@ -5,11 +5,15 @@
 
 <p align="center">Proyecto fin de grado de Luis Miguel Miras Díaz y Rafael Jiménez Burgos.</p>
 
+#Esquema del proyecto
+<p align="center"><img src="![proyecto ligth drawio](https://github.com/luismimd10/SledgeSecurity/assets/115225094/7774df32-df37-420c-a085-3bf70a4eef9c)
+" alt="drawing" style="width:500px;"/></p>
+
 # Checkpoint
 [Video CheckPoint](https://youtu.be/CTjzCZpz3cc)
 
 # Video final
-[Video final de grado](https://youtu.be/rcl0OyXX8Us)
+[Video final de proyecto](https://youtu.be/rcl0OyXX8Us)
 
 # Presentación del proyecto
 [PDF](https://drive.google.com/file/d/19DlPgO09PR1xiacRM9loUG8luHRh3PAU/view?usp=sharing)
