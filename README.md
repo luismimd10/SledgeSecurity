@@ -30,14 +30,18 @@
 - Docker 24.0.5
 - SonarQube Community Edition v9.9.5 (Bajo Docker)
 - Prometheus 2.52.0 y Grafana 11.0.0
+- Kubernete v1.30.1
 - Email Notification
 
 # Histórico de cambios
-Inicio de proyecto hasta 03/06/2024
+Inicio de proyecto hasta 17/06/2024
 - Se ha creado dos instancias EC2, Jenkins-Master y Jenkins-Agent.
-- Se ha añadido la funcionalidad de notificación por Email en Jenkins.
 - Se ha levantado y configurado SonarQube bajo Docker.
-- Se ha configurado Prometheus (Sistema de monitorización y alertas), junto a Grafana.
+- Se ha añadido la funcionalidad de notificación por Email en Jenkins.
+- Se ha configurado e integrado Trivy en Jenkins para el escaneo de las vulnerabilidades tanto en el código de la aplicación como en el contenedor de docker.
+- Se ha configurado Docker en Jenkins para la subida y ejecución del contenedor con la aplicación.
+- Se han creado las instancias EC2 K8s-master y k8s-worker.
+- Se ha configurado Prometheus (Sistema de monitorización y alertas), junto a Grafana en todas las instancias EC2.
 
 ## Direcciones URL de las instancias EC2 creadas en AWS
 * Jenkins: https://proyectoasirjenkins.ddns.net/
@@ -52,3 +56,5 @@ Inicio de proyecto hasta 03/06/2024
 - [Instalar Prometheus en Linux](https://prometheus.io/docs/prometheus/latest/getting_started/)
 - [Instalar Grafana en Linux](https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/)
 - [Instalar SonarQube con Docker](https://docs.sonarsource.com/sonarqube/latest/setup-and-upgrade/install-the-server/installing-sonarqube-from-docker/)
+- [Clúster de Kubernetes en Instancias EC2](https://mrmaheshrajput.medium.com/deploy-kubernetes-cluster-on-aws-ec2-instances-f3eeca9e95f1)
+- [Integración de Trivy en Jenkins](https://medium.com/@lilnya79/integrating-jenkins-with-trivy-222eaa7a70be)
