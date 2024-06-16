@@ -11,6 +11,12 @@
 # Video final
 [Video final de grado](https://youtu.be/rcl0OyXX8Us)
 
+# Presentación del proyecto
+[PDF](https://drive.google.com/file/d/19DlPgO09PR1xiacRM9loUG8luHRh3PAU/view?usp=sharing)
+
+# Plan de Seguridad
+[Seguridad](https://drive.google.com/file/d/1mKfZqmBkIZlaDVKTDHgvJsAPtrNdZXIF/view?usp=sharing)
+
 ### Software Utilizado y versiones:
 - Jenkins 2.452.1
 - Docker 24.0.5
