@@ -41,6 +41,7 @@ Inicio de proyecto hasta 03/06/2024
 * SonarQube: http://54.85.121.151:9000/
 * Grafana: http://44.223.163.86:3000/
 * Prometheus: http://44.223.163.86:9090/
+* Web Netflix: http://35.172.40.117:8081/
 
 ### Bibliografía
 - [Instalar Jenkins en Linux](https://www.jenkins.io/doc/book/installing/linux/)
