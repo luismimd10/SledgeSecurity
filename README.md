@@ -8,6 +8,8 @@
 #Esquema del proyecto
 
 
+<p align="center"><img src="proyecto.ligth.drawio.png" alt="drawing" style="width:500px;"/></p>
+
 # Checkpoint
 [Video CheckPoint](https://youtu.be/CTjzCZpz3cc)
 
