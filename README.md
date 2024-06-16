@@ -5,7 +5,7 @@
 
 <p align="center">Proyecto fin de grado de Luis Miguel Miras Díaz y Rafael Jiménez Burgos.</p>
 
-#Esquema del proyecto
+# Esquema del proyecto
 
 
 <p align="center"><img src="proyecto.ligth.drawio.png" alt="drawing" style="width:500px;"/></p>
