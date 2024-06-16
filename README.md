@@ -1,6 +1,5 @@
 # SledgeSecurity
 
-
 <p align="center"><img src="logosledgesecurity.jpg" alt="drawing" style="width:500px;"/></p>
 
 <p align="center">Proyecto fin de grado de Luis Miguel Miras Díaz y Rafael Jiménez Burgos.</p>
@@ -26,11 +25,12 @@
 [Seguridad](https://drive.google.com/file/d/1mKfZqmBkIZlaDVKTDHgvJsAPtrNdZXIF/view?usp=sharing)
 
 ### Software Utilizado y versiones:
-- Jenkins 2.452.1
-- Docker 24.0.5
+- Jenkins v2.452.1
+- Docker v24.0.5
 - SonarQube Community Edition v9.9.5 (Bajo Docker)
-- Prometheus 2.52.0 y Grafana 11.0.0
-- Kubernete v1.30.1
+- Prometheus v2.52.0 y Grafana v11.0.0
+- Kubernetes v1.30.1
+- Trivy v0.51.4
 - Email Notification
 
 # Histórico de cambios
