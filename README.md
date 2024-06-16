@@ -8,7 +8,7 @@
 # Checkpoint
 [Video CheckPoint](https://youtu.be/CTjzCZpz3cc)
 
-# Videofinal
+# Video final
 [Video final de grado](https://youtu.be/rcl0OyXX8Us)
 
 ### Software Utilizado y versiones:
